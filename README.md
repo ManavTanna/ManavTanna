@@ -15,3 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ManavTanna&label=Profile%20views&color=0e75b6&style=flat-square&label=PROFILE+VIEWS" alt="ManavTanna" /> </p>
+## 📈 MY STATS
+
+<p align="center"><img alt="Manav Tanna's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManavTanna&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></p>
+
+<p align="center">&nbsp;<img alt="Manav Tanna's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ManavTanna&theme=react&hide_border=true&stroke=0000&background=0D1117"/></p>
+
+<p align="center"><img alt="Manav Tanna's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ManavTanna&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></p>
+
+<img alt="Manav Tanna's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ManavTanna&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
